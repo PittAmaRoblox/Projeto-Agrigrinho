@@ -11,6 +11,11 @@
     --font-titulo: "Rakkas", serif;
 }
 
+/* código omitido */
+
+/* código omitido */
+
+/* Reset */
 * {
     margin: 0;
     padding: 0;
@@ -37,22 +42,4 @@ img {
     max-width: 90%;
 }
 
-@media (max-width: 768px) {
-    .conteudo {
-        width: 90%;
-    }
-
-    nav ul {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav ul li {
-        margin: 5px 0;
-    }
-
-    .cta-button {
-        width: 100%;
-    }
-}
+/* código omitido */
